@@ -1,0 +1,40 @@
+.contact {
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+
+.regestration form h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color:green;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, textarea, button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+button {
+    background-color: orange;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.h2{
+    text-align: center;
+}
+
+
+
